@@ -1,0 +1,5 @@
+Front-End, https://prog.kiev.ua/fe.html
+Web Design, https://prog.kiev.ua/wd.html
+Python, https://prog.kiev.ua/python/
+Java, https://prog.kiev.ua/java.html
+QA, https://prog.kiev.ua/qa.html

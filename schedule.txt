@@ -1,0 +1,10 @@
+Front-End Start, 1.03.2022
+Front-End Pro, 1.03.2022
+Web Design Start, 10.03.2022
+Web Design Pro, 10.03.2022
+Python Start, 1.04.2022
+Python Pro, 1.04.2022
+Java Start, 10.04.2022
+Java Pro, 10.04.2022
+QA Start, 15.03.2022
+QA Pro, 15.03.2022
